@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AgnesePortera&show_icons=true">
   
+
+
 ### 🎓 My skills:
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,py,bash,rust,java,c,latex,maven,git,github,docker,azure,jenkins,cmake,mysql,redis,vscode,idea,anaconda,matlab,arduino,raspberrypi,linux&perline=5)
