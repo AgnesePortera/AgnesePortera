@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - 👨‍💻 Programming languages enthusiast
   - 💬 Ask me about software development or DevOps
   - 🌱 I'm on continuous learning (I like reading computer books, following online courses and sharing ideas with my collegues 👯)
-  - 🔭 I’m currently working on C++ and automation procedures on Azure DevOps
+  - 🔭 I’m currently working on C++ dev for embedded Linux and automation procedures on Azure DevOps
 
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AgnesePortera&show_icons=true">
   
